@@ -1,4 +1,4 @@
 enie.js
 =======
 
-es tan tonto como el nombre
+La posibilidad de usar JoteKery como en casa.
