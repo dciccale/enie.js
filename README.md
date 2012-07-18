@@ -1,4 +1,4 @@
 enie.js
 =======
 
-La posibilidad de usar JoteKery como en casa.
+La posibilidad de usar JotaKery como en casa.
