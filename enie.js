@@ -1,3 +1,3 @@
-(function (window, $, undefined) {
-  window.ñ = $.noConflict();
-}(window, jQuery));
+(function (w) {
+  w.ñ = w.jQuery.noConflict();
+}(window));
